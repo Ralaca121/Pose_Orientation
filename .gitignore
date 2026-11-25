@@ -1,0 +1,10 @@
+raw_datasets/
+data/
+runs/
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+*.bag
+.DS_Store
+EOF
